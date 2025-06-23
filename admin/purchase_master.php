@@ -114,9 +114,6 @@ include "../user/connection.php";
                 </div>
             </div>
 
-
-
-
           <div class="form-actions">
             <button type="submit" name="submit1" class="btn btn-success">Purchase Now</button>
           </div>
@@ -193,10 +190,9 @@ if(isset($_POST['submit1'])){
         </script>
     <?php
 }
-?>
-<?php
 include "footer.php";
 ?>
+
 
 
 

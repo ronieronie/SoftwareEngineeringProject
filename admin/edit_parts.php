@@ -6,7 +6,6 @@ if(!isset($_SESSION["admin"])){
     window.location="index.php";
   </script>
   <?php
-
 }
 ?>
 <?php

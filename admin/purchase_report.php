@@ -140,8 +140,6 @@ include "../user/connection.php";
                         }
                         ?>
 
-                      
-
                     </div>
 
                 </div>
